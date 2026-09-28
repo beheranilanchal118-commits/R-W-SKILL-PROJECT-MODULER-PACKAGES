@@ -1,0 +1,19 @@
+Current Date and Time: 2026-09-28 15:55:13.065045
+Factorial of 5: 120
+Generated Random Number: 8
+Current Date and Time: 2026-09-28 15:59:32.650725
+Generated UUID: b685a625-55b2-47ab-8b3f-c7a3dd962d87
+Area of Circle: 3216.99
+Area of Square: 16.0
+File created successfully: xyz
+Data written to xyz: 12321
+File Content from xyz: 12321
+Data appended to xyz: 123
+Returned to Main Menu
+Available Attributes in math module:
+['__doc__', '__loader__', '__name__', '__package__', '__spec__', 'acos', 'acosh', 'asin', 'asinh', 'atan', 'atan2', 'atanh', 'cbrt', 'ceil', 'comb', 'copysign', 'cos', 'cosh', 'degrees', 'dist', 'e', 'erf', 'erfc', 'exp', 'exp2', 'expm1', 'fabs', 'factorial', 'floor', 'fmod', 'frexp', 'fsum', 'gamma', 'gcd', 'hypot', 'inf', 'isclose', 'isfinite', 'isinf', 'isnan', 'isqrt', 'lcm', 'ldexp', 'lgamma', 'log', 'log10', 'log1p', 'log2', 'modf', 'nan', 'nextafter', 'perm', 'pi', 'pow', 'prod', 'radians', 'remainder', 'sin', 'sinh', 'sqrt', 'sumprod', 'tan', 'tanh', 'tau', 'trunc', 'ulp']
+Factorial of 20: 2432902008176640000
+Compound Interest: 38236.1
+Trigonometric Calculation - Angle: 90.0, Sin: 1.0, Cos: 0.0, Tan: 1.633123935319537e+16
+Area of Circle: 1661.9
+Area of Triangle: 72.0
